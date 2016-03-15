@@ -1,0 +1,21 @@
+{
+  "name": "starterplace",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yokodima/StarterPlace.git"
+  },
+  "author": "Dmitry",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yokodima/StarterPlace/issues"
+  },
+  "homepage": "https://github.com/yokodima/StarterPlace#readme"
+}
